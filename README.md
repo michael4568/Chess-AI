@@ -1,6 +1,8 @@
-◦ Achess game engine with complete rule implementation and a user-friendly GUI using Pygame
- ◦ Implemented Minimax, Negamax, and Alpha-Beta Pruning for strategic decision-making.
- ◦ Enabled AI difficulty levels by configuring search depth. Designed static heuristics for effective board
- position evaluation.
- ◦ Supported player-vs-player and player-vs-AI modes; implemented undo move, en passant, castling, and
- ensured only legal moves; handled stalemate and checkmate scenarios.
+♟️ Chess AI – A Smart and Strategic Game Engine
+🔹 Full-Featured Chess Engine – Implements all official chess rules with a sleek, user-friendly Pygame-based GUI.
+🔹 Advanced AI with Strategic Thinking – Powered by Minimax, Negamax, and Alpha-Beta Pruning, ensuring competitive and intelligent gameplay.
+🔹 Configurable AI Difficulty – Adjust search depth for dynamic challenges. Features custom static heuristics for precise board evaluation.
+🔹 Versatile Gameplay Modes – Play against a friend or challenge the AI. Includes undo move, en passant, castling, and enforces legal moves only.
+🔹 Complete Game Handling – Detects checkmate, stalemate, and ensures a smooth and fair chess experience.
+
+Ready to make your move? ♞♜♛
